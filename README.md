@@ -1,100 +1,64 @@
-# Hi, I'm Sathya Moorthy 👋
+# Sathya Moorthy S
 
-I'm a DevOps & Cloud enthusiast building hands-on experience with cloud infrastructure, Infrastructure as Code, containerization, CI/CD, Kubernetes, and monitoring.
+I'm currently building my skills in DevOps and cloud engineering, with a focus on understanding how infrastructure, automation, CI/CD, containers, and monitoring work together in real environments.
 
-My current focus is developing practical DevOps skills through end-to-end projects using AWS, Terraform, Docker, Kubernetes, Jenkins, Prometheus, and Grafana.
+My background includes over six years of professional experience across engineering and research operations. I'm now working towards transitioning into a DevOps/Cloud role and have been developing hands-on projects to apply what I've learned rather than focusing only on theoretical knowledge.
 
-## 🛠️ Technical Skills
+My recent work includes building AWS network infrastructure, provisioning cloud resources with Terraform, creating CI/CD pipelines with Jenkins, containerizing applications with Docker, deploying workloads to Kubernetes, and setting up monitoring with Prometheus and Grafana.
 
-**Cloud**
-- AWS — EC2, VPC, S3, RDS, EBS, EFS, CloudWatch, Auto Scaling
+## Technical Skills
 
-**Infrastructure as Code & Configuration Management**
-- Terraform
-- Ansible
+- **Cloud:** AWS (EC2, VPC, Security Groups, Internet Gateway, Route Tables)
+- **Infrastructure as Code:** Terraform
+- **Containers:** Docker, Docker Compose
+- **Orchestration:** Kubernetes, Helm
+- **CI/CD:** Jenkins
+- **Monitoring:** Prometheus, Grafana, Node Exporter
+- **Version Control:** Git, GitHub
+- **Scripting:** Bash, Python (Basic)
+- **Configuration:** YAML
 
-**Containers & Orchestration**
-- Docker
-- Docker Compose
-- Kubernetes
-- Helm
+## Projects
 
-**CI/CD**
-- Jenkins
-- GitHub Actions
-- GitLab CI
+### [Docker Multi-Container Application](https://github.com/sathyamoorthy-s/docker-multicontainer-app)
 
-**Monitoring & Observability**
-- Prometheus
-- Grafana
-- Loki
-- Grafana Alloy
+Containerized a Flask and Redis application as separate services and used Docker Compose to manage container networking and application deployment.
 
-**Version Control**
-- Git
-- GitHub
-- GitLab
+**Technologies:** Docker, Docker Compose, Flask, Redis
 
-**Scripting & Configuration**
-- Bash
-- Python (Basic)
-- YAML
-- JSON
+### [CI/CD Pipeline with Jenkins](https://github.com/sathyamoorthy-s/jenkins-cicd-demo)
 
----
+Built a Jenkins Pipeline as Code workflow to automate the build and deployment of a Dockerized web application. The pipeline integrates GitHub Webhooks for automated triggers and deploys the application to an AWS EC2 instance.
 
-## 🚀 Featured Projects
+**Technologies:** Jenkins, Docker, GitHub, AWS EC2, Nginx
 
-### 🔄 CI/CD Pipeline with Jenkins
+### [AWS Multi-Tier VPC Architecture](https://github.com/sathyamoorthy-s/aws-multi-tier-vpc-architecture)
 
-Automated CI/CD pipeline using Jenkins Pipeline as Code, Docker, GitHub Webhooks, and AWS EC2 to build and deploy a containerized web application.
+Built a multi-tier AWS VPC environment to understand cloud networking fundamentals, including public and private subnet design, routing, Internet Gateway, security groups, and Bastion Host access.
 
-**Technologies:** Jenkins · Docker · GitHub · AWS EC2 · Nginx
+**Technologies:** AWS, VPC, EC2, Internet Gateway, Route Tables, Security Groups
 
-### 🏗️ AWS Multi-Tier Infrastructure with Terraform
+### [AWS Infrastructure Automation with Terraform](https://github.com/sathyamoorthy-s/Terraform-aws-multitier)
 
-Infrastructure as Code project that provisions a multi-tier AWS environment using reusable Terraform configurations.
+Used Terraform to provision AWS infrastructure as code, including VPC networking, subnets, routing, security groups, and EC2 resources. The project focuses on creating repeatable infrastructure rather than configuring resources manually.
 
-**Technologies:** Terraform · AWS · VPC · EC2 · Networking
+**Technologies:** Terraform, AWS, VPC, EC2
 
-### ☸️ Kubernetes Flask + Redis Deployment
+### [Kubernetes Flask and Redis Deployment](https://github.com/sathyamoorthy-s/kubernetes-flask-redis)
 
-Deployed a containerized Flask and Redis application to Kubernetes using Deployments, Services, ConfigMaps, Secrets, persistent storage, Ingress, and Helm.
+Deployed a multi-container Flask and Redis application to Kubernetes. The project covers Deployments, Services, ConfigMaps, Secrets, persistent storage, Ingress, scaling, rolling updates, and Helm packaging.
 
-**Technologies:** Kubernetes · Helm · Docker · Flask · Redis
+**Technologies:** Kubernetes, Helm, Docker, Flask, Redis
 
-### 🌐 AWS Multi-Tier VPC Architecture
+### [Prometheus and Grafana Monitoring](https://github.com/sathyamoorthy-s/prometheus-grafana-monitoring)
 
-Designed a multi-tier AWS network architecture with public and private subnets, route tables, Internet Gateway, NAT Gateway, security groups, and Bastion Host access.
+Built a containerized monitoring stack using Prometheus, Grafana, and Node Exporter. Configured Prometheus scrape targets and created a custom Grafana dashboard using PromQL to monitor CPU and memory utilization.
 
-**Technologies:** AWS · VPC · EC2 · NAT Gateway · Security Groups
+**Technologies:** Prometheus, Grafana, Node Exporter, Docker Compose, PromQL
 
-### 📊 Prometheus & Grafana Monitoring
+## Current Focus
 
-Built a Dockerized observability stack using Prometheus, Grafana, and Node Exporter with a custom dashboard for CPU and memory utilization.
+I'm continuing to strengthen my Kubernetes knowledge while improving my understanding of infrastructure automation, CI/CD, and monitoring. My goal is to keep building on these fundamentals and apply them in a professional DevOps or Cloud engineering role.
 
-**Technologies:** Prometheus · Grafana · Node Exporter · Docker Compose · PromQL
+## Contact
 
-### 🐳 Docker Multi-Container Application
-
-Containerized a Flask and Redis application as separate services and orchestrated them using Docker Compose.
-
-**Technologies:** Docker · Docker Compose · Flask · Redis
-
----
-
-## 🎯 Currently Learning
-
-- Advanced Kubernetes concepts
-- DevOps automation and Infrastructure as Code
-- Cloud-native deployment practices
-- Monitoring and observability
-
-## 📫 Connect With Me
-
-- **GitHub:** @sathyamoorthys
-- **LinkedIn:** Add your LinkedIn profile link here
-
----
-
-I'm continuously improving my DevOps skills through hands-on projects and practical experimentation.
