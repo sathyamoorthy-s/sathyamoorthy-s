@@ -60,5 +60,4 @@ Built a containerized monitoring stack using Prometheus, Grafana, and Node Expor
 
 I'm continuing to strengthen my Kubernetes knowledge while improving my understanding of infrastructure automation, CI/CD, and monitoring. My goal is to keep building on these fundamentals and apply them in a professional DevOps or Cloud engineering role.
 
-## Contact
 
